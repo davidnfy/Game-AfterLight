@@ -1,0 +1,33 @@
+﻿{
+	"version": 1763617698,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/dirtmid-sheet0.png",
+		"images/dirtcenter-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/tiledbackground.png",
+		"images/star-sheet0.png",
+		"images/hudjewel_blue-sheet0.png",
+		"images/hudplayer_blue-sheet0.png",
+		"images/gemblue-sheet0.png",
+		"images/keyblue-sheet0.png",
+		"images/coinsilver-sheet0.png",
+		"images/p_coin.png",
+		"images/p_gem.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"media/musik.m4a",
+		"media/musik.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
